@@ -3,7 +3,7 @@ Please add me as an Agent Developer [Published] on Discord, my discord username 
 # BSC Miners revard calculator
 
 ## Description
-Выдаем профит майнера, получаемый при валидации транзакции
+Miner's profit withdrawal from transaction confirmation
 ## Supported Chains
 
 - BSC
