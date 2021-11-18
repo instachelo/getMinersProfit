@@ -13,4 +13,4 @@ Miner's profit withdrawal from transaction confirmation
 Describe each of the type of alerts fired by this agent
 
 - FORTA-130
-  - Fired when a new block created
+- Fired when a new block created
